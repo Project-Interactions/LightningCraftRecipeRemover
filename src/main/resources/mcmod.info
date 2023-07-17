@@ -1,14 +1,14 @@
 [
 {
-  "modid": "lcrr",
-  "name": "LightningCraft Recipe Remover",
-  "description": "A simple mod that remove all the LightningTransformRecipes for modpackers",
+  "modid": "ltrr",
+  "name": "LightningTransform Recipe Remover",
+  "description": "A simple mod that remove all LightningTransform recipes in LightningCraft",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["mczph","CleanroomMC"],
-  "credits": "mczph",
+  "authorList": ["mczph"],
+  "credits": "Thanks to CleanroomMC's template",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
